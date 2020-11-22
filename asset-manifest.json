@@ -1,32 +1,32 @@
 {
   "files": {
     "main.css": "/it-samurais/static/css/main.3bde656b.chunk.css",
-    "main.js": "/it-samurais/static/js/main.722f2a8c.chunk.js",
-    "main.js.map": "/it-samurais/static/js/main.722f2a8c.chunk.js.map",
-    "runtime-main.js": "/it-samurais/static/js/runtime-main.90d59be0.js",
-    "runtime-main.js.map": "/it-samurais/static/js/runtime-main.90d59be0.js.map",
-    "static/js/2.0bde96bd.chunk.js": "/it-samurais/static/js/2.0bde96bd.chunk.js",
-    "static/js/2.0bde96bd.chunk.js.map": "/it-samurais/static/js/2.0bde96bd.chunk.js.map",
+    "main.js": "/it-samurais/static/js/main.ebf0af55.chunk.js",
+    "main.js.map": "/it-samurais/static/js/main.ebf0af55.chunk.js.map",
+    "runtime-main.js": "/it-samurais/static/js/runtime-main.a3ed1bf2.js",
+    "runtime-main.js.map": "/it-samurais/static/js/runtime-main.a3ed1bf2.js.map",
+    "static/js/2.98a8d341.chunk.js": "/it-samurais/static/js/2.98a8d341.chunk.js",
+    "static/js/2.98a8d341.chunk.js.map": "/it-samurais/static/js/2.98a8d341.chunk.js.map",
     "static/css/3.c1ace39e.chunk.css": "/it-samurais/static/css/3.c1ace39e.chunk.css",
     "static/js/3.46d0f225.chunk.js": "/it-samurais/static/js/3.46d0f225.chunk.js",
     "static/js/3.46d0f225.chunk.js.map": "/it-samurais/static/js/3.46d0f225.chunk.js.map",
     "static/css/4.26e6ea2e.chunk.css": "/it-samurais/static/css/4.26e6ea2e.chunk.css",
-    "static/js/4.c9a8c6f0.chunk.js": "/it-samurais/static/js/4.c9a8c6f0.chunk.js",
-    "static/js/4.c9a8c6f0.chunk.js.map": "/it-samurais/static/js/4.c9a8c6f0.chunk.js.map",
+    "static/js/4.fdcc940c.chunk.js": "/it-samurais/static/js/4.fdcc940c.chunk.js",
+    "static/js/4.fdcc940c.chunk.js.map": "/it-samurais/static/js/4.fdcc940c.chunk.js.map",
     "index.html": "/it-samurais/index.html",
-    "precache-manifest.6a62d7552464ed1c0c35bb26cd3fc071.js": "/it-samurais/precache-manifest.6a62d7552464ed1c0c35bb26cd3fc071.js",
+    "precache-manifest.0f402e91d1feed5485dac1417636ce98.js": "/it-samurais/precache-manifest.0f402e91d1feed5485dac1417636ce98.js",
     "service-worker.js": "/it-samurais/service-worker.js",
     "static/css/3.c1ace39e.chunk.css.map": "/it-samurais/static/css/3.c1ace39e.chunk.css.map",
     "static/css/4.26e6ea2e.chunk.css.map": "/it-samurais/static/css/4.26e6ea2e.chunk.css.map",
     "static/css/main.3bde656b.chunk.css.map": "/it-samurais/static/css/main.3bde656b.chunk.css.map",
-    "static/js/2.0bde96bd.chunk.js.LICENSE.txt": "/it-samurais/static/js/2.0bde96bd.chunk.js.LICENSE.txt",
+    "static/js/2.98a8d341.chunk.js.LICENSE.txt": "/it-samurais/static/js/2.98a8d341.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/it-samurais/static/media/logo.7d5d465b.svg",
     "static/media/spinner.svg": "/it-samurais/static/media/spinner.6304b5e5.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.90d59be0.js",
-    "static/js/2.0bde96bd.chunk.js",
+    "static/js/runtime-main.a3ed1bf2.js",
+    "static/js/2.98a8d341.chunk.js",
     "static/css/main.3bde656b.chunk.css",
-    "static/js/main.722f2a8c.chunk.js"
+    "static/js/main.ebf0af55.chunk.js"
   ]
 }
