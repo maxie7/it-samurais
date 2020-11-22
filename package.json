@@ -2,7 +2,7 @@
   "name": "it-samurais",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://maxie7.github.io/SocialNetwork",
+  "homepage": "https://maxie7.github.io/it-samurais",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
