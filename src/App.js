@@ -1,5 +1,5 @@
 import React from 'react';
-import {BrowserRouter, Route, withRouter} from "react-router-dom";
+import {HashRouter, Route, withRouter} from "react-router-dom";
 import './App.css';
 
 import HeaderContainer from "./components/header/HeaderContainer";
@@ -67,13 +67,13 @@ let AppContainer = compose(
 (App);
 
 const SamuraiJSApp = (props) => {
-  return <BrowserRouter basename={process.env.PUBLIC_URL}>
+  return <HashRouter basename={process.env.PUBLIC_URL}>
     <Provider store={store}>
       <React.StrictMode>
         <AppContainer />
       </React.StrictMode>
     </Provider>
-  </BrowserRouter>
+  </HashRouter>
 }
 
 export default SamuraiJSApp;
