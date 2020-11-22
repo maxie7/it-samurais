@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6fc586e525d0f0b49550c18d43a411c9",
+    "revision": "c0e946759962462147d6ea4d6e075be0",
     "url": "/it-samurais/index.html"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/it-samurais/static/css/4.26e6ea2e.chunk.css"
   },
   {
-    "revision": "353902ad34e8f5372600",
+    "revision": "9c8c9d30010e2cfc7c28",
     "url": "/it-samurais/static/css/main.3bde656b.chunk.css"
   },
   {
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/it-samurais/static/js/4.fdcc940c.chunk.js"
   },
   {
-    "revision": "353902ad34e8f5372600",
-    "url": "/it-samurais/static/js/main.ebf0af55.chunk.js"
+    "revision": "9c8c9d30010e2cfc7c28",
+    "url": "/it-samurais/static/js/main.4a482078.chunk.js"
   },
   {
     "revision": "f99cde2c5d84e1c867cc",
