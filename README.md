@@ -1,4 +1,4 @@
-# React Social Net Project (v.1.3.3)
+# React Social Net Project (v.1.5.5)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

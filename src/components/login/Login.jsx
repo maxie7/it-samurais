@@ -5,7 +5,7 @@ import {required} from "../../utils/validators/validators";
 import {connect} from "react-redux";
 import {login} from "../../redux/auth.reducer";
 import {Redirect} from "react-router-dom";
-import s from "../common/formsControls/formsControls.module.css"
+import s from "../common/formsControls/formsControls.module.css";
 
 const LoginForm = ({handleSubmit, error}) => {
   return (
